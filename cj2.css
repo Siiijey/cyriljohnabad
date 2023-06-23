@@ -1,0 +1,26 @@
+h2 {
+    font-family: "Hatton";
+    text-align: center;
+    margin-top: 20px;
+    border: 2px;
+    border-radius: 5px;
+    color: gray;
+  }
+
+h3 {
+    font-family: "Linotype Didot";
+    text-align: center;
+    margin-top: 20px;
+    border: 2px;
+    border-radius: 5px;
+    color: gray;
+  }
+
+  h1 {
+    font-family: "Proxima Nova";
+    text-align: center;
+    margin-top: 20px;
+    color: gray;
+    border: 2px;
+    border-radius: 5px;
+  }
